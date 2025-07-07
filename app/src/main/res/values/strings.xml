@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Gallery App</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="phone">Phone</string>
+    <string name="jobTitle">Job Title</string>
+    <string name="add_user">Add User</string>
+    <string name="media_access">Media Access</string>
+    <string name="allow_access_to_your_photos_and_videos_so_we_can_show_your_media_albums">Allow access to your photos and videos so we can show your media albums.</string>
+    <string name="no_media_available">No Media available</string>
+
+
+</resources>
